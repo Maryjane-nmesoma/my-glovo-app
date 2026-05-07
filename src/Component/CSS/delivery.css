@@ -73,7 +73,7 @@
     border-radius: 30px;
 }   
 }
-@media(max-width:425px){
+@media(max-width:500px){
     .deliVeryHolder{
     width: 100%; 
     display: grid;
