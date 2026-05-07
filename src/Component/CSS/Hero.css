@@ -69,7 +69,7 @@ video{
         gap: 15px;
     }
 }
-@media (max-width:425px) {
+@media (max-width:500px) {
 .heroHolder{
     display: flex;
     flex-direction: column;
