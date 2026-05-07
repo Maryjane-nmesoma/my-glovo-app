@@ -31,8 +31,8 @@ const Footer = () => {
                 </div>
                 <section className='legals'>
                     <div className='botton'>
-                        <img src="src/assets/glovoapp.com_b69ae758-72c1-4e02-9794-c979e2af5cbf/ios-button.33217f86.svg" />
-                        <img src="src/assets/glovoapp.com_b69ae758-72c1-4e02-9794-c979e2af5cbf/download-button-new.svg" alt="" />
+                        <img src="/assets/glovoapp.com_b69ae758-72c1-4e02-9794-c979e2af5cbf/ios-button.33217f86.svg" />
+                        <img src="/assets/glovoapp.com_b69ae758-72c1-4e02-9794-c979e2af5cbf/download-button-new.svg" alt="" />
                     </div>
                     <div> 
                         <p>Terms and conditions</p>
