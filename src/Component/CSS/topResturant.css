@@ -27,6 +27,7 @@
     margin-top: -20px;
     background: rgb(230, 187, 113);
     width: 200px;
+    border-radius: 15px;
     display: flex;
     justify-content: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -36,5 +37,15 @@
 @media(max-width:768px){
     .resturantHolder{
         grid-template-columns: 1fr 1fr 1fr;
+    }
+}
+@media(max-width:425px){
+    .resturantHolder{
+        grid-template-columns: 1fr 1fr;
+    }
+    .resturant p{
+        width: auto;
+        border-radius: 5px;
+        padding: 2px 5px;
     }
 }
