@@ -1,4 +1,3 @@
-import React from 'react'
 import Header from "../src/Component/Header"
 import Hero from "../src/Component/Hero"
 import TopResturant from"../src/Component/TopResturant"

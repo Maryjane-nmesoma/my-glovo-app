@@ -47,7 +47,7 @@
     font-size: 20px; 
 }
 }
-@media(max-width:425px){
+@media(max-width:500px){
   .bodyHolder{
     grid-template-columns: 1fr;
 }  

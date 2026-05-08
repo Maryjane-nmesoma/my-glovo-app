@@ -1,0 +1,31 @@
+.headerContainer{
+    background: orange;
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+}
+
+.headerHolder{
+    background:    rgb(255, 166, 0);
+    width: 90%;
+    display: flex;
+    justify-content: space-between; 
+}
+.glovoLogo img{
+    width: 150px;
+}
+.loginButton {
+    border-radius: 30px;
+    border: 1px solid  rgba(59, 148, 59, 0.973);
+    background-color: rgba(59, 148, 59, 0.973);
+    display: flex;
+     justify-content: center;  
+     align-items: center;
+     font-size: 25px;
+     color: white;
+}
+.logoImg{
+    width: 100px;
+}

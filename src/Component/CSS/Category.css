@@ -30,7 +30,7 @@ background: green;
 border: none;
 border-radius: 30px;
 }
-@media(max-width:425px){
+@media(max-width:500px){
     .categoryButton{
     display: flex;
     flex-wrap: wrap;
